@@ -1,2 +1,1 @@
-# Invoice-Sample:
-:
+# Invoice-Sample
